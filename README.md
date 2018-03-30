@@ -31,5 +31,5 @@ We will provide you a dataset of cars along with the attributes of each car alon
   <li>Now I train the model using this classifier</li>
   <li>And at last we predict the popularity of the test_data</li>
   <li>And check our accuracy by uploading it to the Hackerrank plateform</li>
-  <li>I get the accuracy of <b>97.96%</b></li>
+  <li>I got the accuracy of <b>97.96%</b></li>
 </ol>
